@@ -24,15 +24,10 @@ ESP32-S3 based OBD-II telemetry logger with 42-driver dataset
 
 
 
-| Component | Files Available |
-
-|-----------|-----------------|
-
-| PCB Gerbers | Ready for JLCPCB/PCBWay |
-
-| Bill of Materials | Excel sheets included |
-
-| 3D Models | STEP files for visualization |
+| Board | Gerber | BOM | 3D Model |
+|-------|--------|-----|----------|
+| MCU Board | [Download](hardware/pcb/MCU/Gerber_PCB_mcu.zip) | [Excel](hardware/pcb/MCU/BOM_ESPBoard_PCB_mcu.xlsx) | [STEP](hardware/pcb/MCU/3D_PCB_mcu.step) |
+| OBDPlug | [Download](hardware/pcb/OBDPlug/Gerber_PCB_obdplug.zip) | [Excel](hardware/pcb/OBDPlug/BOM_OBDPlug_PCB_obdplug.xlsx) | [STEP](hardware/pcb/OBDPlug/3D_PCB_obdplug.step) |
 
 
 
