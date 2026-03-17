@@ -18,9 +18,9 @@ ESP32-S3 based OBD-II telemetry logger with 42-driver dataset
 
 ### Hardware (Manufacturing Files)
 
-- \*\*MCU Board\*\*: ESP32-S3 + TJA1051 CAN + MicroSD + OLED
+- **MCU Board**: ESP32-S3 + TJA1051 CAN + MicroSD + OLED
 
-- \*\*OBDPlug\*\*: 16-pin OBD-II connector
+- **OBDPlug**: 16-pin OBD-II connector
 
 
 
@@ -48,7 +48,7 @@ ESP32-S3 based OBD-II telemetry logger with 42-driver dataset
 
 ### Datasets
 
-- \*\*42 drivers\*\* across 3 experiments
+- **42 drivers** across 3 experiments
 
 - exp1: 14 drivers × 14 cars
 
@@ -80,7 +80,7 @@ ESP32-S3 based OBD-II telemetry logger with 42-driver dataset
 
 ---
 
-*\*Abhijit Mukherjee\*\* | IIIT Bhubaneswar | March 2026
+**Abhijit Mukherjee** | IIIT Bhubaneswar | March 2026
 
 
 
